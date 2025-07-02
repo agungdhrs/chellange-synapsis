@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Gloves"
+    },
+    {
+      "id": 1,
+      "name": "Hard Hat"
+    },
+    {
+      "id": 2,
+      "name": "Safety Glasses"
+    },
+    {
+      "id": 3,
+      "name": "Safety Vest"
+    },
+    {
+      "id": 4,
+      "name": "Steel-toe Boots"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
