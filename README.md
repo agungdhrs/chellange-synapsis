@@ -81,6 +81,8 @@ AgungDharmaSaputra_DE_Challenge/
 pip install opencv-python matplotlib
 ```
 
+### Jalankan Script Python
+
 ```bash
 python preview_dataset.py
 ```
