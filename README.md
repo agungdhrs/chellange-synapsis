@@ -76,6 +76,11 @@ AgungDharmaSaputra_DE_Challenge/
 
 ## 🧪 Cara Menjalankan Preview Script
 
+### Install dependencies
+```bash
+pip install opencv-python matplotlib
+```
+
 ```bash
 python preview_dataset.py
 ```
